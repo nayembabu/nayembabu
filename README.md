@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayembabu](https://github.com/nayembabu)
 
-- 💬 Ask me about **ExpressJs, Nodejs, Angular**
+- 💬 Ask me about **PHP, Codeigniter, Angular**
 
 - 📫 How to reach me **babunayem@gmail.com**
 

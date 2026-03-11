@@ -155,18 +155,6 @@ I don't just write code — I **build products**. From architecting multi-tenant
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayembabu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayembabu&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayembabu&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🤝 Connect With Me

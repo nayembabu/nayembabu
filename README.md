@@ -90,7 +90,7 @@ I don't just write code — I **build products**. From architecting multi-tenant
 
 ---
 
-### 🧾 Arot POS — Billing & Inventory Management System
+### 🧾 Billing POS — Billing & Inventory Management System
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) ![Type](https://img.shields.io/badge/Type-Business_Application-purple?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/nayembabu/billing_laravel_apps)
